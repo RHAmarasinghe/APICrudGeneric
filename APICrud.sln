@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICrud", "APICrud.csproj", "{CED8F753-289C-41F6-8EB2-A5625AD3AE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2", "..\Question2\Question2.csproj", "{D8B26FB5-DA48-4877-8033-50DA99FB7638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CED8F753-289C-41F6-8EB2-A5625AD3AE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED8F753-289C-41F6-8EB2-A5625AD3AE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED8F753-289C-41F6-8EB2-A5625AD3AE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B26FB5-DA48-4877-8033-50DA99FB7638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B26FB5-DA48-4877-8033-50DA99FB7638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B26FB5-DA48-4877-8033-50DA99FB7638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B26FB5-DA48-4877-8033-50DA99FB7638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
